@@ -290,14 +290,14 @@ const frenchResources = {
                         features: ["Spaced repetition", "Free (except iOS)", "Extensive deck library", "Customizable"],
                         free: true
                     },
-                                        {
+                    {
                         name: "BrioVocab",
                         url: "https://briovocab.com/",
                         level: "A1-B2",
                         features: ["Illustrated French word sets", "Add your own words", "FSRS parameters adapted to review history", "iOS/Android/Web", "Paid features available"],
                         free: false
                     },
-{
+                    {
                         name: "LibreLingo",
                         url: "https://librelingo.app/",
                         level: "All levels",
